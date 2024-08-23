@@ -1,4 +1,4 @@
-- 👋 Hi, I and Samir Sawant
+- 👋 Hi, I and Samir
 - 👀 I am interested in fun projects based on Python, Java, php or Andriod Studio.
 - 🌱 I’m currently learning Node.js, Flutter
 - 📫 smrswnt20@gmail.com
