@@ -1,6 +1,7 @@
 - 👋 Hi, I and Samir
 - 👀 I am interested in fun projects based on Python, Java, php or Andriod Studio.
-- 🌱 I’m currently learning Node.js, Flutter
+- Proeffiecent in Microsoft Azure, Python, Pyspark, MySQL, PostresSQL, Azure Devops, YAML and PowerBI
+- 🌱 I’m currently learning Node.js and Angular
 - 📫 smrswnt20@gmail.com
 
 <!---
